@@ -1,0 +1,4 @@
+Prog	0	4	R
+Four	16	4	R
+Five	20	4	R
+Temp	24	4	R

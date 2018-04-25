@@ -1,0 +1,10 @@
+Prog	Start	0
+	Using	*,15
+	L	1,Four
+	A	1,Five
+	A	1,=F'2'
+	Start	1,Temp
+Four	DC	F'4'
+Five	DC	F'5'
+Temp	DS	1F
+	End
